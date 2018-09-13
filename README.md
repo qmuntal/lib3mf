@@ -72,6 +72,7 @@ A large number of software or hardware products and projects [support 3MF](https
 | --- | --- |
 | [Element](https://www.ntopology.com/element-pro/) | [nTopology](https://www.ntopology.com/) |
 | [Netfabb](https://www.autodesk.com/products/netfabb/overview/) | [Autodesk](https://www.autodesk.com/) |
+| [Meshmixer](http://www.meshmixer.com/) | [Autodesk](https://www.autodesk.com/) |
 | [Rhino3D](https://www.rhino3d.com/) | [Robert McNeel & Associates](https://www.mcneel.com/) |
 
 If your product or project uses Lib3MF, please create a pull request or an issue to have it included in this list.
