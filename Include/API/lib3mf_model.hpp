@@ -187,6 +187,9 @@ public:
 
 	void RemoveCustomNameSpace (const std::string & sNameSpace);
 
+	ICustomAttributes * GetCustomAttributes();
+
+	ICustomAttributes * GetBuildCustomAttributes();
 };
 
 }
